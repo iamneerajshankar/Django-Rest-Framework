@@ -43,8 +43,8 @@ Covers the in depth concepts and practical implementation of django rest framewo
 
 ## Components of the Repository:
 
-### 1. RestApi Project 
-### 2. BlogApi Project
-### 3. Validation - It demonstrate the different types of validation ways used in djange rest framwork to be more precious about the intent like field level validation, object level validation and custom validators.
+#### 1. RestApi Project 
+#### 2. BlogApi Project
+#### 3. Validation - It demonstrate the different types of validation ways used in djange rest framwork to be more precious about the intent like field level validation, object level validation and custom validators.
 
 
