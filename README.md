@@ -1,5 +1,5 @@
-# Project - Django Rest Framework Complete.
-## Author - Neeraj shankar  (codewihneeraj@outlook.com)
+# Project - Django Rest Framework Complete. :rocket: :rocket:
+## Author - Neeraj shankar :smile:  (codewihneeraj@outlook.com)
 
 
 
@@ -13,11 +13,11 @@ Covers the in depth concepts and practical implementation of django rest framewo
     1. python and its package manager (pip) need to be installed.
     2. The package that provide virtual environment needed to installed (for linux - apt install python3-venv or py -m pip install --user virtualenv for windows)
   
-  ## Dependencies Required for the project
+  ## Dependencies Required for the project :heavy_exclamation_mark:
       django (pip install django)
       rest_framework (pip install djangorestframework)
 
-  ## Running the application:
+  ## Running the application: :heavy_check_mark:
   ### To create the virtual environment:
     python3 -m venv env-name
 
@@ -41,6 +41,10 @@ Covers the in depth concepts and practical implementation of django rest framewo
     python manage.py runserver 8080
 
 
-## Components of the App:
+## Components of the Repository:
+
+### 1. RestApi Project 
+### 2. BlogApi Project
+### 3. Validation - It demonstrate the different types of validation ways used in djange rest framwork to be more precious about the intent like field level validation, object level validation and custom validators.
 
 
